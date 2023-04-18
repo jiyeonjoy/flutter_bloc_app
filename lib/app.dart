@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc_app/common/config/r.dart';
+import 'package:flutter_bloc_app/pages/splash/splash_page.dart';
 
 class BLoCApp extends StatefulWidget {
   const BLoCApp({Key? key}) : super(key: key);
